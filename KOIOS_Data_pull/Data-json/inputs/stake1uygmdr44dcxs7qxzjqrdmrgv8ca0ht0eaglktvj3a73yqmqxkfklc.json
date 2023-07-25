@@ -1,0 +1,72 @@
+{
+	"UTxO_set": [
+		{
+			"address": "addr1qyje793hn758npgw7z0h5k568k77pehm8rvwxre6wxgf8xs3k68t2msdpuqv9yqxmkxsc036lwkln63lvke9rmazgpkqwe9y3u",
+			"value": "8999800000"
+		},
+		{
+			"address": "addr1qxd7nm9c0e9ph2wvzqm28ttjgfejvcw89gx9rtjcdzjff8q3k68t2msdpuqv9yqxmkxsc036lwkln63lvke9rmazgpkqyxk8uk",
+			"value": "1738647"
+		},
+		{
+			"address": "addr1qye4atedchm9excthq64myn7s8vhk3xlda9kmae2mdagdag3k68t2msdpuqv9yqxmkxsc036lwkln63lvke9rmazgpkqv20p6w",
+			"value": "36622826770"
+		},
+		{
+			"address": "addr1q9lzggzajcxem2j9m7eqaan4azzqfjs2nke5wtl2mxhnzec3k68t2msdpuqv9yqxmkxsc036lwkln63lvke9rmazgpkqelt3mx",
+			"value": "3008974780"
+		},
+		{
+			"address": "addr1qxg57853j6s39hnup965ns3z8d46dwrsdhrja7pst705uzc3k68t2msdpuqv9yqxmkxsc036lwkln63lvke9rmazgpkqjx9p2k",
+			"value": "12764756868"
+		},
+		{
+			"address": "addr1q9jkp4fadhl4zrm3hpagaxmxgfsqkj4crwlwudnesmmt9hs3k68t2msdpuqv9yqxmkxsc036lwkln63lvke9rmazgpkqyhd2l7",
+			"value": "1344798"
+		},
+		{
+			"address": "addr1qyv4e4r6mvwy0xv7ykk5e767kzvs926kgv35l9hr0w38e8g3k68t2msdpuqv9yqxmkxsc036lwkln63lvke9rmazgpkqrvzza0",
+			"value": "4656279724"
+		},
+		{
+			"address": "addr1q9jkp4fadhl4zrm3hpagaxmxgfsqkj4crwlwudnesmmt9hs3k68t2msdpuqv9yqxmkxsc036lwkln63lvke9rmazgpkqyhd2l7",
+			"value": "1344798"
+		},
+		{
+			"address": "addr1q8cgy084r6hc6qp8z978g7a694j4q2dsmc2jd7lq5a7ntmq3k68t2msdpuqv9yqxmkxsc036lwkln63lvke9rmazgpkqmzy9ww",
+			"value": "21001713723"
+		},
+		{
+			"address": "addr1q9jkp4fadhl4zrm3hpagaxmxgfsqkj4crwlwudnesmmt9hs3k68t2msdpuqv9yqxmkxsc036lwkln63lvke9rmazgpkqyhd2l7",
+			"value": "1344798"
+		},
+		{
+			"address": "addr1qxp26jj7extdwqpdq68xxaaye0kp4cp3fvd2nf2spn96aec3k68t2msdpuqv9yqxmkxsc036lwkln63lvke9rmazgpkq73ywt9",
+			"value": "3968484885"
+		},
+		{
+			"address": "addr1qx74uvlrskjp6662a6yecr8qgk54f5p2w5tadjnl5mt37tg3k68t2msdpuqv9yqxmkxsc036lwkln63lvke9rmazgpkqyn9cq6",
+			"value": "5442898166"
+		},
+		{
+			"address": "addr1q9jkp4fadhl4zrm3hpagaxmxgfsqkj4crwlwudnesmmt9hs3k68t2msdpuqv9yqxmkxsc036lwkln63lvke9rmazgpkqyhd2l7",
+			"value": "1344798"
+		},
+		{
+			"address": "addr1qxj0wf6pr0690ayfu8vzkxsjlu57hv43wv835yde5nzrxrq3k68t2msdpuqv9yqxmkxsc036lwkln63lvke9rmazgpkqzqyuh3",
+			"value": "11394136734"
+		},
+		{
+			"address": "addr1q9jkp4fadhl4zrm3hpagaxmxgfsqkj4crwlwudnesmmt9hs3k68t2msdpuqv9yqxmkxsc036lwkln63lvke9rmazgpkqyhd2l7",
+			"value": "1344798"
+		},
+		{
+			"address": "addr1q93z0jac9y88gyhddtkxmqp2qguluza43gpr3d4ml2vhpgc3k68t2msdpuqv9yqxmkxsc036lwkln63lvke9rmazgpkqhasv3d",
+			"value": "1000000"
+		},
+		{
+			"address": "addr1qymufdgv4eej7m62fd3f2tvc3ahj7jhpqc88l8s2p4ljp6s3k68t2msdpuqv9yqxmkxsc036lwkln63lvke9rmazgpkqpwcu0x",
+			"value": "17207520768"
+		}
+	]
+}

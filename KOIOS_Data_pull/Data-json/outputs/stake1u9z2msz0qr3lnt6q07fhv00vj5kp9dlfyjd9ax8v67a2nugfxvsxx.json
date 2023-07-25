@@ -1,0 +1,17 @@
+{
+	"stake_address": "stake1u9z2msz0qr3lnt6q07fhv00vj5kp9dlfyjd9ax8v67a2nugfxvsxx",
+	"outgoing_transactions": [
+		{
+			"address": "addr1q9ya8v4pe33nlkgftyd70nhhp407pvnjjcsddhf64sh9gegwtvyxm7r69gx9cwvtg82p87zpwmzj0kj7tjmyraze3pzqe6zxzv",
+			"value": "450622000000"
+		},
+		{
+			"address": "addr1qxhms4a826sujywhs0ytuh5pmvahzjs34enwngca4rm3q22y4hqy7q8rlxh5qlunwc77e9fvz2m7jfy6t6vwe4a648csz9kczg",
+			"value": "450621492393"
+		},
+		{
+			"address": "addr1qxz0scvrg3ep64dym46r5z8fv292pxxqcpttes9w099fjfzy4hqy7q8rlxh5qlunwc77e9fvz2m7jfy6t6vwe4a648cs2t2a3s",
+			"value": "901240647888"
+		}
+	]
+}
